@@ -213,6 +213,31 @@ mindmap
                     チェロ
 ```
 
+| チーム     | 役割           | 名前       | 動物  | 性格タイプ | 特徴                      | 楽器        |
+|------------|----------------|------------|-------|------------|---------------------------|-------------|
+| **RA**     | **Raiders**     | Rust       | 蟹    | INFP       | 感受性豊かで創造的         | ティンパニ  |
+|            |                 | Fortis     | 亀    | ENTJ       | 自信に満ちたリーダー       | ハープ      |
+|            | **Defenders**   | Kirio      | 麒麟  | ISFP       | 美的感覚が鋭い             | ヴァイオリン|
+|            |                 | Sly        | 狐    | ENTP       | 知的好奇心旺盛             | クラリネット|
+|            | **All-Rounders**| Mighty     | 猿    | ISTJ       | 実直で責任感が強い         | ピアノ      |
+|            |                 | Ordo       | 牛    | ENFJ       | 他者を思いやるリーダー     | フルート    |
+|            |                 | Tetsunojo  | 鶏    | ESTP       | 行動的で冒険好き           | ティンパニ  |
+| **APOPHIS**| **Raiders**     | Ralph      | 狼    | INTJ       | 戦略的で独立心が強い       | オーボエ    |
+|            |                 | Nez        | 針鼠  | ISFJ       | 忠実で思いやりがある       | ヴィオラ    |
+|            | **Defenders**   | Barto      | 豚    | ENFP       | 創造的で情熱的             | ファゴット  |
+|            |                 | Danny      | 兎    | ISTP       | 柔軟で実践的               | シンバル    |
+|            | **All-Rounders**| Darren     | 虎    | ESFJ       | 社交的で協力的             | ヴィオラ    |
+|            |                 | Ziro       | 水豚  | INTP       | 分析的で理論好き           | トランペット|
+|            |                 | Alem       | 土竜  | ESTJ       | 組織的で効率的             | トランペット|
+| **SETH**   | **Raiders**     | Magna      | 鰐    | INFJ       | 深い洞察力を持つ           | トロンボーン|
+|            |                 | Lance      | 犀    | ESFP       | 陽気で活発                 | トロンボーン|
+|            | **Defenders**   | Blitz      | 猪    | ISFJ       | 親切で支援的               | チェロ      |
+|            |                 | Popo       | 河馬  | ENTP       | 創造的で柔軟               | ホルン      |
+|            | **All-Rounders**| Van        | 猫    | ENTJ       | 決断力があるリーダー       | ヴァイオリン|
+|            |                 | Orson      | 駝鳥  | INFP       | 理想主義的で情緒的         | コントラバス|
+|            |                 | Ymir       | 馬    | ESFP       | 社交的で楽しさ重視         | コントラバス|
+|            |                 | Zoltan     | 象    | ISTJ       | 計画的で責任感が強い       | チェロ      |
+
 ## Field Concepts
 
 ### Urban Scramble Intersection
