@@ -152,7 +152,7 @@ mindmap
                     シンバル
                     
             All-Rounders
-                Rex
+                Darren
                     虎
                     ESFJ
                     社交的で協力的
