@@ -33,15 +33,18 @@ gantt
     explain"Sportsmanship" : e17, after e16, 9s
     ED              :97, 3s
 
-    section Anti
-    Ancle Hold: m1, 0, 26s
-    Thigh Hold : m2, after m1, 19s
-    Chain : m3, after m2, 18s
-    Charge : m4, after m3, 19s
-    Block : m5, after m4, 19s
-    Back Hold : m6, after m5, 20s
-    Second Tackle : m7, after m6, 20s
-
+    section Ancle Hold [Jungle]
+    explain : 0,30s
+    section Thigh Hold [Desert]
+    explain : 0,30s
+    section Chain [Office]
+    explain : 0,30s
+    section Charge & Block [Beach]
+    explain : 0,30s
+    section Back Hold [Junction Rainy] 
+    explain : 0,30s
+    section Second Tackle [Hell]
+    explain : 0,30s
 
 ```
 
