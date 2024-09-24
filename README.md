@@ -14,16 +14,13 @@ gantt
     %% ED === Next Episode Preview
 
     section Composit
-    OP-Roll :e0, 0, 24s
     コピーA :e1, 0, 3s
     ハイキック+避け :e2, after e1, 2s
     コピーB : e3, after e2, 3s
-    アンクルホールド :e4, after e3, 2s
+    ステップ :e4, after e3, 2s
     コピーC : e5, after e4, 3s
-    ステップ :e6, after e5, 2s
-    コピーD : e7, after e6, 3s
-    ライオンジャンプ :e8, after e7, 2s
-    コピーE : e9, after e8, 4s
+    ライオンジャンプ :e6, after e5, 2s
+    コピーD : e7, after e6, 4s
     
     ED              :157, 3s
 
@@ -31,12 +28,21 @@ gantt
 
 ## Copy
 
-曰く、太古の狩猟を想起させる原初の駆け引きなり。
-曰く、猛き野生と狩人の如し。
-曰く、刹那の判断を要し、心臓は戦鼓を打つ。
-曰く、技は、雅やかな舞踏なり。
+### Jp
 
-斯くの如き闘争を、彼らは「かばでぃ」と呼ぶ。
+- 曰く、太古の狩猟を呼び覚ます、原初の駆け引きなり。
+- 曰く、猛き野生と狩人の宿世の対峙なり。
+- 曰く、技は、雅やかなる舞踏なり。
+
+斯くの如き闘争の刹那、彼らはこう唱えた。 ” X ” と。
+
+### En
+
+- Thus, it awakeneth the ancient hunt, a primal contest of wits.
+- Thus, it is the fierce clash 'twixt wild nature and the hunter's fate.
+- Thus, the skill becometh a graceful dance of art.
+
+In such fleeting moments of strife, they did murmur, “ X ”.
 
 ## Characters
 
