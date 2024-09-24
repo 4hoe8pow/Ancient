@@ -14,15 +14,25 @@ gantt
     %% ED === Next Episode Preview
 
     section Composit
-    コピーA :e1, 0, 3s
-    ハイキック+避け :e2, after e1, 2s
-    コピーB : e3, after e2, 3s
-    ステップ :e4, after e3, 2s
-    コピーC : e5, after e4, 3s
-    ライオンジャンプ :e6, after e5, 2s
-    コピーD : e7, after e6, 4s
+    コピーA :e1, 0, 2s
+    ハイキック+避け :e2, after e1, 1s
+    コピーB : e3, after e2, 2s
+    ステップ :e4, after e3, 1s
+    コピーC : e5, after e4, 2s
+    ライオンジャンプ :e6, after e5, 1s
+    コピーD : e7, after e6, 3s
+    トピックコール"ルールについて" : e8, 13, 2s
+    explain"攻守を交代しながら進める" : e9, after e8, 6s
+    explain"Cant & Struggle" : e10, after e9, 12s
+    explain"Lobby & Line Out" : e11, after e10, 6s
+    explain"Empty & Baulk & Do or Die" : e12, after e11, 9s
+    explain"Anti" : e13, after e12, 8s
+    explain"アウトと人数増減とRona" : e14, after e13, 10s
+    explain"Bonus" : e15, after e14, 14s
+    explain"Super Tackle" : e16, after e15, 6s
+    explain"Sportsmanship" : e17, after e16, 9s
     
-    ED              :157, 3s
+    ED              :97, 3s
 
 ```
 
@@ -34,15 +44,23 @@ gantt
 - 曰く、猛き野生と狩人の宿世の対峙なり。
 - 曰く、技は、雅やかなる舞踏なり。
 
-斯くの如き闘争の刹那、彼らはこう唱えた。 ” X ” と。
+斯くの如き闘争の刹那、彼らはこう唱えた。 ”カバディ” と。
 
 ### En
 
-- Thus, it awakeneth the ancient hunt, a primal contest of wits.
-- Thus, it is the fierce clash 'twixt wild nature and the hunter's fate.
-- Thus, the skill becometh a graceful dance of art.
+- Quoth, it awakens the ancient hunt, a primordial game of wits.
+- Quoth, it is the fated confrontation between fierce wild beasts and the hunter.
+- Quoth, the skill is akin to a graceful dance.
 
-In such fleeting moments of strife, they did murmur, “ X ”.
+In such fleeting moments of battle, they chanted thus: "KABADDI".
+
+### Ta
+
+- எனக் கூறினான், இது பண்டைய வேட்டையைக் காக்கின்றது; முதன்மையான நுண்ணிய யுத்தம்.
+- எனக் கூறினான், இது வீரியமிக்க காட்டுயிர் மற்றும் வேட்டைக்காரன் ஆகியோரின் விதி தீர்க்கப்பட்ட மோதல் ஆகும்.
+- எனக் கூறினான், திறமை சீரிய நடனத்தை ஒத்தது.
+
+அத்தகைய போரின் நொடி பிந்தியபோது, அவர்கள் இவ்வாறு பாட்டினார்கள்: "கபடி" என்று.
 
 ## Characters
 
@@ -119,7 +137,7 @@ mindmap
                     シンバル
                     
             All-Rounders
-                Rex
+                Tyler
                     虎
                     ESFJ
                     社交的で協力的
@@ -168,8 +186,8 @@ mindmap
                     INFP
                     理想主義的で情緒的
                     コントラバス
-                Ymir
-                    馬
+                Omberg
+                    狸
                     ESFP
                     社交的で楽しさ重視
                     コントラバス
