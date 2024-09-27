@@ -153,7 +153,7 @@ mindmap
                     組織的で効率的
                     トランペット                    
             Defenders
-                Barto
+                Hagan
                     豚
                     ENFP
                     創造的で情熱的
